@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "username": "abc.xyz",
+    "password": "12345678",
+    "firstname": "John",
+    "lastname": "Doe"
+  },
+  {
+    "id": 2,
+    "username": "Alex@Jones",
+    "password": "aehfioaef",
+    "firstname": "ALex",
+    "lastname": "Jones"
+  },
+  {
+    "id": 3,
+    "username": "RickC137",
+    "password": "aehfioaef",
+    "firstname": "Rick",
+    "lastname": "Sanchez"
+  },
+  {
+    "id": 4,
+    "username": "JoeSWNSN",
+    "password": "foaheifoa",
+    "firstname": "Joe",
+    "lastname": "Swanson"
+  },
+  {
+    "id": 5,
+    "username": "FelixK11",
+    "password": "foahaefaeafeifoa",
+    "firstname": "Felix",
+    "lastname": "Atten"
+  }
+]

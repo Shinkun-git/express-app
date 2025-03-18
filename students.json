@@ -1,0 +1,65 @@
+[
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "age": 21,
+    "gender": "Male",
+    "branch": "Mechanical Engineering"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Davis",
+    "age": 22,
+    "gender": "Male",
+    "branch": "Computer Science"
+  },
+  {
+    "id": 4,
+    "name": "David Wilson",
+    "age": 23,
+    "gender": "Male",
+    "branch": "Electrical Engineering"
+  },
+  {
+    "id": 5,
+    "name": "Eve Brown",
+    "age": 20,
+    "gender": "Female",
+    "branch": "Electronics & Communication"
+  },
+  {
+    "id": 6,
+    "name": "Frank White",
+    "age": 21,
+    "gender": "Male",
+    "branch": "Mechanical Engineering"
+  },
+  {
+    "id": 7,
+    "name": "Grace Adams",
+    "age": 22,
+    "gender": "Female",
+    "branch": "Biotechnology"
+  },
+  {
+    "id": 8,
+    "name": "Hannah Lewis",
+    "age": 23,
+    "gender": "Female",
+    "branch": "Electronics & Communication"
+  },
+  {
+    "id": 9,
+    "name": "Ian Scott",
+    "age": 20,
+    "gender": "Male",
+    "branch": "Electrical Engineering"
+  },
+  {
+    "id": 10,
+    "name": "Jack Thomas",
+    "age": 21,
+    "gender": "Male",
+    "branch": "Computer Science"
+  }
+]
